@@ -30,3 +30,11 @@ The application processes two datasets:
 - Readability and maintainability
 - Testability
 - Robust error handling
+
+## Tests
+
+All core components are covered by unit tests.
+
+## Original Challenge Description
+
+The original challenge description can be found in: CHALLENGE.asciidoc
